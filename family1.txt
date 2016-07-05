@@ -1,0 +1,9 @@
+3;Mateus;Fonseca;Fonseca;1; 15 Street;Enzo;Paula;Francos,Carmen;0;Taxi driver;
+3;Luis;Maldonado;Maldonado;1;16, Street;Lucas;Vanessa;Brian, Bianca;0;Soccer player and a layer;
+4;Veronica;Maldonado;Gomes;2;16, Street;David;Basheba;Brian, Bianca;0;Yoga and teaching english;
+1;Lucas;Maldonado;Maldonado;1;54, Nolamara Street;Lo;Rachel;Luis;0;Cars are his passion;
+2;Vanessa;Maldonado;Cruz;2;54, Nolamara Street;Patrick;Simone;Luis;0;Love books and drama classes;
+5;Brian;Maldonado;Maldonado;1;16, Street;Luca;Vanessa;Felipe;1;Soccer player and a layer;
+5;Bianca;Maldonado;Maldonado;2;16, Street;Luca;Vanessa;Juca;2;Hip hop and tango dancer;
+3;Ricardo;Garcia;Garcia;1;12, Street;Julio;Ellen;Junior, Luci;0;App developer and musician;
+4;Bruna;Garcia;Correa;2;12, Street;Julio;Ellen;Junior, Luci;0;Ballet dancer;
